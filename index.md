@@ -142,9 +142,9 @@ This demonstrates that the microstates themselves occur with a frequency around 
 
 ### Give it a try!
 <!--
-coming soon...
--->
 Link to the html page: [online microstate analysis](stats.html){:target="_blank" rel="noopener"}  
+-->
+Link to the [online microstate analysis](https://frederic-vw.github.io/msa-online/){:target="_blank" rel="noopener"}  
 
 
 ## Continuous EEG patterns
